@@ -13,3 +13,13 @@ btn.addEventListener("click", function () {
   document.body.style.backgroundColor = colors[randomNumber];
   color.textContent = colors[randomNumber];
 });
+
+// const
+// var
+// let
+
+// var -> gotovo nikad necemo koristiti jer nije najbolje resenje, zastarelo je
+
+// const ili let
+// const -> ne dozvoljava da se vrednost promenljive menja -> konstanta
+// let -> koristimo ako zelimo da mozemo da menjamo vrednosti promenljivih
